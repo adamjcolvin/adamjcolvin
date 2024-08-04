@@ -2,7 +2,7 @@
 ![Badge](https://www.codewars.com/users/adamjcolvin/badges/small "Codewars Badge")
 
 
-I'm Ruby on Rails developer with over 8 years' experience building apps for a wide range of clients. Currently working at the Department for Education. 
+Ruby on Rails developer with over 8 years' experience building apps for a wide range of clients. Currently working at the [Department for Education](https://github.com/DFE-Digital).
 
 I'm also an aspiring Rust developer. I've been picking up the language in my spare time and loving it so far. I'm always looking for things to learn there, new projects to collaborate on and help with. I'm [documenting](https://x.com/adamjcolvin/articles) some of the things I'm learning on X. 
 
