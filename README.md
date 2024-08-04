@@ -1,5 +1,5 @@
 ## Adam Colvin 
-![Badge](https://www.codewars.com/users/adamjcolvin/badges/small "Codewars Badge")
+[![Badge](https://www.codewars.com/users/adamjcolvin/badges/small "Codewars Badge")](https://www.codewars.com/users/adamjcolvin)
 
 
 Ruby on Rails developer with over 8 years' experience building apps for a wide range of clients. Currently working at the [Department for Education](https://github.com/DFE-Digital).
