@@ -9,7 +9,8 @@ I'm also an aspiring Rust developer. I've been picking up the language in my spa
 📫 How to reach me: ...
 * adamcolv@icloud.com
 * [x.com/adamjcolvin](https://x.com/adamjcolvin)
-* [codewars.com/users/adamjcolvin](https://www.codewars.com/users/adamjcolvin)
+* [Codewars](https://www.codewars.com/users/adamjcolvin)
+* [LinkedIn](https://www.linkedin.com/in/adamcolvin/)
 
 By all means reach out and ask me anything.
   
