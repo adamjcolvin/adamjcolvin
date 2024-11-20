@@ -5,7 +5,6 @@ I'm also an aspiring Rust developer. I've been picking up the language in my spa
 
 📫 How to reach me: ...
 * adamcolv@icloud.com
-* [x.com/adamjcolvin](https://x.com/adamjcolvin)
 * [LinkedIn](https://www.linkedin.com/in/adamcolvin/)
 
 By all means reach out and ask me anything.
